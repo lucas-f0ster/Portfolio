@@ -1,9 +1,15 @@
 import React from 'react'
 
+import Header from './Header'
+import Footer from './Footer'
+import Container from './Container'
+
 const App = () => {
   return (
     <div>
-      <h1>Boilerplate</h1>
+      <Header />
+      <Container />
+      <Footer />
     </div>
   )
 }
