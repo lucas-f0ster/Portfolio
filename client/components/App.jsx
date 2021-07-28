@@ -6,7 +6,7 @@ import Container from './Container'
 
 const App = () => {
   return (
-    <div>
+    <div className='app'>
       <Header />
       <Container />
       <Footer />

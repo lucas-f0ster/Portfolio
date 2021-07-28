@@ -1,1 +1,50 @@
+body {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: 0 0 0 0;
+  height: 100vh;
+}
 
+#app {
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: 0 0 0 0;
+  height: 100vh;
+}
+
+.app {
+  position: absolute;
+  height: 100vh;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: 0 0 0 0;
+}
+
+.header {
+  margin-top: -21px;
+  left: 0;
+  right: 0;
+  height: 4em;
+  background-color: red;
+  text-align: center;
+}
+
+.footer {
+  position: absolute;
+  margin-top: -21px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 4em;
+  background-color: cornflowerblue;
+  text-align: center;
+}
+
+/*# sourceMappingURL=styles.css.map*/
