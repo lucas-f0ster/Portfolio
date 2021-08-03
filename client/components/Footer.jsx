@@ -3,7 +3,7 @@ import React, { useState, useEffect} from 'react'
 const Footer = () => {
   return (
     <div className='footer'>
-      <h1>Footer?</h1>
+      <p>© 2021 Lucas Foster</p>
     </div>
   )
 }
